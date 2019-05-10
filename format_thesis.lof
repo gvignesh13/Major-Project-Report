@@ -1,0 +1,22 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \bf Process model for generating high diversity children based on input population.\relax }}{7}{figure.caption.14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \bf Mutating the features in an offspring to generate new population.\relax }}{8}{figure.caption.15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \bf Model for Random Forest Tree generation and output generate after model creation\relax }}{11}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \bf Plot of CLOSE values estimated by GA model and the actual CLOSE values.\relax }}{20}{figure.caption.17}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \bf Plot of all attributes\relax }}{21}{figure.caption.18}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \bf Plot of predicted prices vs actual values for Random Forest Model\relax }}{21}{figure.caption.19}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \bf Plot of predicted prices vs actual values for LSTM Model\relax }}{22}{figure.caption.20}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \bf Rolling Statistics for original dataset\relax }}{22}{figure.caption.21}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces \bf ACF for the original dataset\relax }}{23}{figure.caption.22}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \bf Moving Average of the original dataset\relax }}{23}{figure.caption.23}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \bf Rolling Statistics vs Log Transform\relax }}{24}{figure.caption.24}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces \bf Rolling Statistics vs Log Differencing\relax }}{24}{figure.caption.25}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces \bf ACF Plot of the Log Differenced\relax }}{25}{figure.caption.26}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces \bf PACF Plot of Log Differenced\relax }}{25}{figure.caption.27}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces \bf Final Plot of ARIMA forecasted values vs actual values\relax }}{26}{figure.caption.28}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

@@ -1,0 +1,155 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Ahuja, Rastogi, Garg, and Choudhuri}{Ahuja
+  et~al.}{2015}]{seventeen}
+Ahuja, R., Rastogi, H., Garg, B., and Choudhuri, A. (2015).
+\newblock ``Stock market forecast using sentiment analysis.''\ {\em 2nd
+  International Conference on Computing for Sustainable Global Development
+  (INDAICom)}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Attigeri, Pai, Pai, and Nayak}{Attigeri
+  et~al.}{2015}]{fifteen}
+Attigeri, G.~V., Pai, M., Pai, R., and Nayak, A. (2015).
+\newblock ``Stock market prediction: A big data approach.
+
+\bibitem[\protect\citeauthoryear{Chou and Nguyen}{Chou and
+  Nguyen}{2018}]{thirteen}
+Chou, J.-S. and Nguyen, T.-K. (2018).
+\newblock ``Forward forecast of stock prices using sliding-window
+  metaheuristic-optimized machine learning regression.''\ {\em Transactions on
+  Industrial Informatics}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Colah}{Colah}{2015}]{lstm}
+Colah (2015).
+\newblock ``Understanding lstm networks.
+\newblock \url{https://colah.github.io/posts/2015-08-Understanding-LSTMs/}.
+\newblock [Online; accessed 02-Feb-2019].
+
+\bibitem[\protect\citeauthoryear{Donges}{Donges}{2018}]{rf}
+Donges, N. (2018).
+\newblock ``The random forest algorithm.
+\newblock
+  \url{https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd}.
+\newblock [Online; accessed 05-Mar-2019].
+
+\bibitem[\protect\citeauthoryear{Hamed, Hussien, and Tolba}{Hamed
+  et~al.}{2011}]{three}
+Hamed, I.~M., Hussien, A.~S., and Tolba, M.~F. (2011).
+\newblock ``An intelligent model for stock market prediction.''\ {\em
+  International Conference on Computer Engineering and Systems}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Iacomin}{Iacomin}{2016}]{sixteen}
+Iacomin, R. (2016).
+\newblock ``Stock market prediction.''\ {\em 19th International Conference on
+  System Theory, Control and Computing (ICSTCC)}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Kamble}{Kamble}{2017}]{six}
+Kamble, R.~A. (2017).
+\newblock ``Short and long term stock trend prediction using decision tree.''\
+  {\em International Conference on Intelligent Computing and Control Systems
+  (ICICCS)}. IEEE,  1371--1375.
+
+\bibitem[\protect\citeauthoryear{Keras}{Keras}{2018}]{keras}
+Keras (2018).
+\newblock ``Keras documentation.
+\newblock \url{https://keras.io/}.
+\newblock [Online; accessed 02-Feb-2019].
+
+\bibitem[\protect\citeauthoryear{Khatri and Srivastava}{Khatri and
+  Srivastava}{2016}]{eight}
+Khatri, S.~K. and Srivastava, A. (2016).
+\newblock ``Using sentimental analysis in prediction of stock market
+  investment.''\ {\em 5th International Conference on Reliability, Infocom
+  Technologies and Optimization (ICRITO)}. IEEE,  566--569.
+
+\bibitem[\protect\citeauthoryear{Kumar}{Kumar}{2017}]{genetic1}
+Kumar, A. (2017).
+\newblock ``Genetic algorithms.
+\newblock \url{https://www.geeksforgeeks.org/genetic-algorithms/}.
+\newblock [Online; accessed 04-Feb-2019].
+
+\bibitem[\protect\citeauthoryear{Maini and Govinda}{Maini and
+  Govinda}{2017}]{nine}
+Maini, S.~S. and Govinda, K. (2017).
+\newblock ``Stock market prediction using data mining techniques.''\ {\em
+  International Conference on Intelligent Sustainable Systems (ICISS)}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Momoh}{Momoh}{2018}]{momoh}
+Momoh, O. (2018).
+\newblock ``Stocks analysis.
+\newblock \url{https://www.investopedia.com/terms/s/stock-analysis.asp}.
+\newblock [Online; accessed 02-Nov-2018].
+
+\bibitem[\protect\citeauthoryear{Nivetha and Dhaya}{Nivetha and
+  Dhaya}{2017}]{seven}
+Nivetha, R.~Y. and Dhaya, C. (2017).
+\newblock ``Developing a prediction model for stock analysis.
+
+\bibitem[\protect\citeauthoryear{Ponnam, Rao, Srinivas, , and Raavi}{Ponnam
+  et~al.}{2016}]{four}
+Ponnam, L.~T., Rao, V.~S., Srinivas, K., , and Raavi, V. (2016).
+\newblock ``A comparative study on techniques used for prediction of stock
+  market.''\ {\em International Conference on Automatic Control and Dynamic
+  Optimization Techniques (ICACDOT)}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Rajput and Bobde}{Rajput and
+  Bobde}{2016}]{twelve}
+Rajput, V. and Bobde, S. (2016).
+\newblock ``Stock market prediction using hybrid approach.''\ {\em
+  International Conference on Computing, Communication and Automation (ICCCA)}.
+  IEEE.
+
+\bibitem[\protect\citeauthoryear{Schroder}{Schroder}{2017}]{tim}
+Schroder, T. (2017).
+\newblock ``What are the steps for predicting a stock price using the meyer
+  packard algorithm ?
+\newblock
+  \url{https://www.quora.com/What-are-the-steps-for-predicting-a-stock-price-using-the-Meyer-and-Packard-algorithm/answer/Tim-Schr\%C3\%B6der-7?ch=10\&share=8a3977bb\&srid=OEqH}.
+\newblock [Online; accessed 02-Feb-2019].
+
+\bibitem[\protect\citeauthoryear{Srinivasan and Laskhmi}{Srinivasan and
+  Laskhmi}{2017}]{five}
+Srinivasan, N. and Laskhmi, C. (2017).
+\newblock ``Forecasting stock price using soft computing techniques.''\ {\em
+  Third International Conference on Science Technology Engineering \&
+  Management (ICONSTEM)}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Srivastava}{Srivastava}{2017}]{lstm1}
+Srivastava, P. (2017).
+\newblock ``Essentials of deep learning : Introduction to long short term
+  memory.
+\newblock \url{https://colah.github.io/posts/2015-08-Understanding-LSTMs/}.
+\newblock [Online; accessed 02-Feb-2019].
+
+\bibitem[\protect\citeauthoryear{Tiwari, Bharadwaj, and Gupta}{Tiwari
+  et~al.}{2017}]{ten}
+Tiwari, S., Bharadwaj, A., and Gupta, S. (2017).
+\newblock ``Stock price prediction using data analytics.
+
+\bibitem[\protect\citeauthoryear{Wang and Lin}{Wang and Lin}{2015}]{one}
+Wang, C. and Lin, Y. (2015).
+\newblock ``The prediction system for data analysis of stock market by using
+  genetic algorithm.''\ {\em International Conference on Fuzzy Systems and
+  Knowledge Discovery (FSKD)}. IEEE,  1721--1725.
+
+\bibitem[\protect\citeauthoryear{Wang, Zhang, Xiao, Kuang, and Lai}{Wang
+  et~al.}{2015}]{two}
+Wang, F., Zhang, Y., Xiao, H., Kuang, L., and Lai, Y. (2015).
+\newblock ``Enhancing stock price prediction with a hybrid approach based
+  extreme learning model.''\ {\em 15th International Conference on Data Mining
+  Workshops}. IEEE,  1568--1570.
+
+\bibitem[\protect\citeauthoryear{Xing, Sun, Wang, and Yu}{Xing
+  et~al.}{2013}]{eleven}
+Xing, T., Sun, Y., Wang, Q., and Yu, G. (2013).
+\newblock ``The analysis and prediction of stock price.''\ {\em International
+  Conference on Granular Computing (GrC)}. IEEE.
+
+\bibitem[\protect\citeauthoryear{Zhang, Qu, Huang, Fang, and Yu}{Zhang
+  et~al.}{2018}]{eighteen}
+Zhang, X., Qu, S., Huang, J., Fang, B., and Yu, P. (2018).
+\newblock ``Stock market prediction via multi-source multiple instance
+  learning.''\ {\em 19th International Conference on System Theory, Control and
+  Computing (ICSTCC)}. IEEE.
+
+\end{thebibliography}

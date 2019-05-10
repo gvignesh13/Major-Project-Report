@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: format_thesis.aux
+The style file: ascelike.bst
+Illegal, another \bibstyle command---line 156 of file format_thesis.aux
+ : \bibstyle
+ :          {unsrtnat}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+Warning--entry type for "seven" isn't style-file defined
+--line 63 of file references.bib
+Warning--entry type for "ten" isn't style-file defined
+--line 89 of file references.bib
+Warning--entry type for "fifteen" isn't style-file defined
+--line 121 of file references.bib
+Warning--I didn't find a database entry for "tf"
+Warning--I didn't find a database entry for "forest123"
+(There was 1 error message)

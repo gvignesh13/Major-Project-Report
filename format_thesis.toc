@@ -1,0 +1,21 @@
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.1}
+\contentsline {chapter}{ACKNOWLEDGEMENT}{iv}{chapter*.5}
+\contentsline {chapter}{LIST OF TABLES}{viii}{chapter*.7}
+\contentsline {chapter}{LIST OF FIGURES}{ix}{chapter*.8}
+\contentsline {chapter}{ABBREVIATIONS}{x}{chapter*.9}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}IMPLEMENTATION}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Dataset Used}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Genetic Algorithm}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}Random Forest}{10}{section.3.3}
+\contentsline {section}{\numberline {3.4}Long Short Term Memory}{12}{section.3.4}
+\contentsline {section}{\numberline {3.5}Auto Regressive Integrated Moving Average}{16}{section.3.5}
+\contentsline {chapter}{\numberline {4}SCREENSHOTS}{20}{chapter.4}
+\contentsline {chapter}{\numberline {5}CONCLUSION}{27}{chapter.5}
+\contentsline {chapter}{\numberline {6}FUTURE ENCHANCEMENTS}{29}{chapter.6}
+\contentsline {chapter}{\numberline {A}CODE}{31}{appendix.A}
+\contentsline {section}{\numberline {A.1}Genetic Algorithm}{31}{section.A.1}
+\contentsline {section}{\numberline {A.2}Random Forest}{37}{section.A.2}
+\contentsline {section}{\numberline {A.3}Long Short Term Memory}{40}{section.A.3}
+\contentsline {section}{\numberline {A.4}Auto Regressive Intergrated Moving Average}{43}{section.A.4}
